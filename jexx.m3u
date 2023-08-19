@@ -7,7 +7,7 @@ https://stream-04.nyc.dailymotion.com/sec(_i51VaJAaJ6AK3dDJPgpsSbBsM9NWIjxkkv2sn
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1578913373_b831072_DVR.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/pRFLQajAwPpSxEq9Ai1v7tKXi351pNebfOMubB7nozUUckTvipr6GcFTY1G8Ka5Zvm4" group-title="NACIONALES", Telemicro Canal 5
-https://playback.akamaized.net/streams/27456795_10633780_lsiax1hm5rf1ikrizlj_1/media/27456795_10633780_lsiax1hm5rf1ikrizlj_1@628000p.m3u8?dw=14400&ts=1692381600&hdnts=exp=1692554641~acl=/streams/27456795_10633780_lsiax1hm5rf1ikrizlj_1/media*~hmac=779cb529b23c85376075df122292fdb3c4362b01bf08ba932099b982a811f7af
+https://playback.akamaized.net/streams/27456795_10633780_lsiax1hm5rf1ikrizlj_1/media/27456795_10633780_lsiax1hm5rf1ikrizlj_1@628000p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Antena_Latina_2016.webp/1000px-Antena_Latina_2016.webp.png" group-title="NACIONALES", Antena 7
 https://d1841z6ti5nz2v.cloudfront.net/Antena7DO/34cdaa501a0217ea217d8f4f083c1728.sdp/Antena7DO/Antena7DO1/chunks.m3u8
@@ -19,7 +19,7 @@ https://stream-02.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY3p4h9Bv-DxoTZK2dI
 https://stream-04.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2iSDmYYyuvt8-v_lbOJYN0dRYK-TbqaYNl_I34MljJCa)/dm/3/x80ac48/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagedelivery.net/NLRdvd00lh1oHv32qhXM9g/64b263bd-d359-414f-0419-d4ef0064b400/w=400" group-title="NACIONALES", Digital Quince
-https://playback.akamaized.net/streams/27456795_10633798_lsiz8jiwfyxisr705jr_1/media/27456795_10633798_lsiz8jiwfyxisr705jr_1@628000p.m3u8?dw=14400&ts=1692381600&hdnts=exp=1692554735~acl=/streams/27456795_10633798_lsiz8jiwfyxisr705jr_1/media*~hmac=91b3bf59e513be9f3d398a1abe670b3d92e71c77def7ae46e4a5a33e0a47414e
+https://playback.akamaized.net/streams/27456795_10633798_lsiz8jiwfyxisr705jr_1/media/27456795_10633798_lsiz8jiwfyxisr705jr_1@628000p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Canal-21.png/1024px-Canal-21.pngw" group-title="NACIONALES", Antena 21
 https://d1841z6ti5nz2v.cloudfront.net/Canal21DO/f260159f04ed124e08b9ee0364dd4ca7.sdp/Canal21DO/Canal21DO1/chunks.m3u8
